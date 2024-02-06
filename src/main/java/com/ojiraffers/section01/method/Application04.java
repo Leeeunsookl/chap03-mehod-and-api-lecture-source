@@ -1,5 +1,7 @@
 package com.ojiraffers.section01.method;
 
+import java.security.PublicKey;
+
 public class Application04 {
 
     private static Object app4;
@@ -27,7 +29,9 @@ public class Application04 {
         System.out.println("나의 이름은 "+ name + "이고, 나이는 "+ age +" 세 이며, 성별은 " + gender + "입니다.");
 
 
+
     }
 
 
-}
+    }
+
