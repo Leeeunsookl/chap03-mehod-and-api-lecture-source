@@ -1,6 +1,6 @@
 package com.ojiraffers.section01.method;
 
-public class pratice {
+public class Practice01 {
 
     public static void main(String[] args) {
 
@@ -92,7 +92,7 @@ public class pratice {
 
         System.out.println(num33/10*10 +1 );        //int는 원래 정수형 그리고 왼쪽 연산이라 그냥 나누고 곱해도 됐다.
 
-        pratice app4 = new pratice();
+        Practice01 app4 = new Practice01();
         app4.testMethod2("시", "15", "초");
 
 //        public void testMethod2(){
